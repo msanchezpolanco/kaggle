@@ -1,0 +1,9 @@
+dependencies:
+    - pandas
+    - jupyter
+    - numpy
+    - seaborn
+    - matplotlib
+    - pip:
+        - sklearn
+        - kaggle
